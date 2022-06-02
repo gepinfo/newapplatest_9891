@@ -1,0 +1,7 @@
+{
+  "name": "newapplatest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
